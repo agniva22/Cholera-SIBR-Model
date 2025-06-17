@@ -47,15 +47,10 @@ Six key parameters are estimated:
 
 ## Repository Structure
 
-├── data/
-│ └── real_data.csv # Weekly cholera case counts (time series)
-│
-├── scripts/
-│ └── calibrate.py # Main script: MLE + DRAM MCMC + plotting
-│
-├── requirements.txt # Python dependencies
-│
-└── README.md # This file
+├── data
+├── scripts
+├── requirements.txt
+|── README.md 
 ---
 
 ## Dependencies
