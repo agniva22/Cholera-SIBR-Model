@@ -55,9 +55,7 @@ Six key parameters are estimated:
 │
 ├── requirements.txt # Python dependencies
 │
-└── README.md
-
-
+└── README.md # This file
 ---
 
 ## Dependencies
