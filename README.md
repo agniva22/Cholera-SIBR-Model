@@ -65,9 +65,9 @@ Six key parameters are estimated:
 1. Clone this repo:
    ```bash
    git clone https://github.com/agniva22/Cholera-SIBR-Model.git
-   cd cholera-sibr-calibration
+   cd Cholera-SIBR-Model
 
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install --upgrade pip
+  pip install -r requirements.txt
