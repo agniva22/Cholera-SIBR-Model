@@ -1,7 +1,5 @@
 # Cholera-SIBR-Model
 
-readme_content = """# Cholera SIBR Model Parameter Estimation
-
 This repository contains Python scripts to calibrate a mechanistic SIBR (Susceptible–Infected–Bacteria–Recovered) model to weekly cholera case data using
 
 1. **Deterministic maximum-likelihood estimation** (via `scipy.optimize.minimize`), and  
@@ -21,8 +19,6 @@ This repository contains Python scripts to calibrate a mechanistic SIBR (Suscept
   - [2. Bayesian Calibration (DRAM MCMC)](#2-bayesian-calibration-dram-mcmc)  
 - [Results & Plots](#results--plots)  
 - [Configuration](#configuration)  
-- [License](#license)  
-
 ---
 
 ## Background
