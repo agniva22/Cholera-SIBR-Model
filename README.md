@@ -68,7 +68,7 @@ Six key parameters are estimated:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/cholera-sibr-calibration.git
+   git clone https://github.com/agniva22/Cholera-SIBR-Model.git
    cd cholera-sibr-calibration
 
 python3 -m venv venv
