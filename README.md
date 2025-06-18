@@ -43,10 +43,14 @@ Six key parameters are estimated:
 
 ## Repository Structure
 
+`````
+
 ├── data
 ├── scripts
 ├── requirements.txt
-|── README.md 
+|── README.md
+
+`````
 ---
 
 ## Dependencies
